@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "crud",
-    "slug": "crud",
+    "name": "reactNativeCRUD",
+    "slug": "react-native-crud",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [

@@ -1,13 +1,9 @@
-# React Native - Note Application (CRUD)
+# React Native - Note Application (CRUD)  
+Development time version 0.59  
 
-## Front End
-### Single Ticket  
-![alt text](assets/img/single_ticket.png)  
-### Table for 10  
-![alt text](assets/img/table10.png)  
-### Admin Receipt  
-![alt text](assets/img/admin_receipt.png) 
-### Email Receipt  
-![alt text](assets/img/email_receipt.png)  
-### Web View Receipt  
-![alt text](assets/img/web_receipt.png)  
+## UI  
+![alt text](assets/img/note1.png)    
+![alt text](assets/img/note2.png)    
+
+By Following this Tutorial 
+[How to make an app - React Native Tutorial - Create a Todo App in 25 minutes](https://www.youtube.com/watch?v=xb8uTN3qiUI&t=44s)  
