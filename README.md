@@ -2,10 +2,10 @@
 Development time version 0.59  
 
 ## UI  
-### View 1  
+### View 1 - Empty 
 <img src="assets/img/note2.jpg" width="20%">  
 
-### View 2  
+### View 2 - Populated
 <img src="assets/img/note1.jpg" width="20%"> 
 
 By Following this Tutorial 
